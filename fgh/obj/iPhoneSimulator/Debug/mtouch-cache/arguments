@@ -1,0 +1,35 @@
+# Version: 9.4.0.0 (xcode7.2: 7322991)
+# [first argument, ignore] # /Users/aocsa/Documents/proyectos/MLearning/fgh/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/9.4.0.0/bin/mtouch \
+	--cache \
+	/Users/aocsa/Documents/proyectos/MLearning/fgh/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--sim \
+	/Users/aocsa/Documents/proyectos/MLearning/fgh/bin/iPhoneSimulator/Debug/fgh.app \
+	--executable \
+	fgh \
+	--debug \
+	--profiling \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	9.3 \
+	--targetver \
+	8.0 \
+	--abi=i386 \
+	--symbollist \
+	/Users/aocsa/Documents/proyectos/MLearning/fgh/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	/Users/aocsa/Documents/proyectos/MLearning/fgh/bin/iPhoneSimulator/Debug//fgh.exe \

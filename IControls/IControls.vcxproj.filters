@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>384cd036-defc-4321-8ba2-0aac8cd230f7</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tga;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="DataSource">
+      <UniqueIdentifier>{74431484-746c-457a-8dc4-798e8368fc75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StackView">
+      <UniqueIdentifier>{b8dcfead-6161-48fd-952d-2356bf2a79cb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="Components\ChapterHeaderControl.cpp" />
+    <ClCompile Include="Components\ControlDownElement.cpp" />
+    <ClCompile Include="Components\ControlDownMenu.cpp" />
+    <ClCompile Include="Reader\VerticalElement.cpp" />
+    <ClCompile Include="Reader\VerticalPagedScroll.cpp" />
+    <ClCompile Include="DataSource\BindableBase.cpp">
+      <Filter>DataSource</Filter>
+    </ClCompile>
+    <ClCompile Include="DataSource\BookDataSource.cpp">
+      <Filter>DataSource</Filter>
+    </ClCompile>
+    <ClCompile Include="DataSource\ChapterDataSource.cpp">
+      <Filter>DataSource</Filter>
+    </ClCompile>
+    <ClCompile Include="DataSource\PageDataSource.cpp">
+      <Filter>DataSource</Filter>
+    </ClCompile>
+    <ClCompile Include="DataSource\SectionDataSource.cpp">
+      <Filter>DataSource</Filter>
+    </ClCompile>
+    <ClCompile Include="StackView\IStackView.cpp">
+      <Filter>StackView</Filter>
+    </ClCompile>
+    <ClCompile Include="StackView\IStackList.cpp">
+      <Filter>StackView</Filter>
+    </ClCompile>
+    <ClCompile Include="StackView\IStackItem.cpp">
+      <Filter>StackView</Filter>
+    </ClCompile>
+    <ClCompile Include="StackView\IGroupList.cpp">
+      <Filter>StackView</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="IControlsUtil.h" />
+    <ClInclude Include="Components\ChapterHeaderControl.h" />
+    <ClInclude Include="Components\ControlDownElement.h" />
+    <ClInclude Include="Components\ControlDownMenu.h" />
+    <ClInclude Include="DataSource\DataUtils.h" />
+    <ClInclude Include="Reader\VerticalElement.h" />
+    <ClInclude Include="Reader\VerticalPagedScroll.h" />
+    <ClInclude Include="DataSource\BindableBase.h">
+      <Filter>DataSource</Filter>
+    </ClInclude>
+    <ClInclude Include="DataSource\BookDataSource.h">
+      <Filter>DataSource</Filter>
+    </ClInclude>
+    <ClInclude Include="DataSource\ChapterDataSource.h">
+      <Filter>DataSource</Filter>
+    </ClInclude>
+    <ClInclude Include="DataSource\PageDataSource.h">
+      <Filter>DataSource</Filter>
+    </ClInclude>
+    <ClInclude Include="DataSource\SectionDataSource.h">
+      <Filter>DataSource</Filter>
+    </ClInclude>
+    <ClInclude Include="StackView\IStackView.h">
+      <Filter>StackView</Filter>
+    </ClInclude>
+    <ClInclude Include="StackView\IStackList.h">
+      <Filter>StackView</Filter>
+    </ClInclude>
+    <ClInclude Include="StackView\IStackItem.h">
+      <Filter>StackView</Filter>
+    </ClInclude>
+    <ClInclude Include="StackView\IGroupList.h">
+      <Filter>StackView</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

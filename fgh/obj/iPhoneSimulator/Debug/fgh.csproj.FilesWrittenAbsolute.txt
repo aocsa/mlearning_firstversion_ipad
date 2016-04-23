@@ -1,0 +1,9 @@
+/Users/aocsa/Documents/proyectos/MLearning/fgh/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/aocsa/Documents/proyectos/MLearning/fgh/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/aocsa/Documents/proyectos/MLearning/fgh/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/aocsa/Documents/proyectos/MLearning/fgh/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/aocsa/Documents/proyectos/MLearning/fgh/obj/iPhoneSimulator/Debug/optimized/
+/Users/aocsa/Documents/proyectos/MLearning/fgh/bin/iPhoneSimulator/Debug/fgh.exe.mdb
+/Users/aocsa/Documents/proyectos/MLearning/fgh/bin/iPhoneSimulator/Debug/fgh.exe
+/Users/aocsa/Documents/proyectos/MLearning/fgh/obj/iPhoneSimulator/Debug/fgh.exe
+/Users/aocsa/Documents/proyectos/MLearning/fgh/obj/iPhoneSimulator/Debug/fgh.exe.mdb

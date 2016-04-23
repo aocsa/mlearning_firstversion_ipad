@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="MLearning.UnifiedTouch/MLearning.UnifiedTouch.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.iPad" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MLearning.UnifiedTouch/Main.cs">
+    <Files>
+      <File FileName="MLearning.UnifiedTouch/Views/LOView.cs" Line="26" Column="22" />
+      <File FileName="MLearning.UnifiedTouch/Main.cs" Line="5" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/mac/JAN/MLearning/FINAL PROJECT/MLearning.Touch/Views/MainView.cs" line="95" column="1" />
+      <Breakpoint enabled="false" file="/Users/mac/Desktop/MLearning/MLearning.Core/ViewModels/MainViewModel.cs" line="762" column="1" />
+      <Breakpoint enabled="false" file="/Users/mac/Desktop/MLearning/MLearning.UnifiedTouch/Views/MainView.cs" line="492" column="1" />
+      <Breakpoint enabled="false" file="/Users/mac/Desktop/MLearning/MLearning.UnifiedTouch/Views/LOView.cs" line="287" column="1" />
+      <Breakpoint file="/Users/aocsa/Documents/proyectos/MLearning/MLearning.UnifiedTouch/Views/LOView.cs" line="216" column="2" />
+      <Breakpoint file="/Users/aocsa/Documents/proyectos/MLearning/MLearning.UnifiedTouch/Views/LOView.cs" line="108" column="2" />
+      <Breakpoint file="/Users/aocsa/Documents/proyectos/MLearning/MLearning.UnifiedTouch/Views/MainView.cs" line="453" column="3" />
+      <Breakpoint file="/Users/aocsa/Documents/proyectos/MLearning/MLearning.Core/ViewModels/LOViewModel.cs" line="60" column="3" />
+      <Breakpoint file="/Users/aocsa/Documents/proyectos/MLearning/MLearning.Core/ViewModels/LOViewModel.cs" line="89" column="2" />
+      <Breakpoint file="/Users/aocsa/Documents/proyectos/MLearning/MLearning.Core/ViewModels/MainViewModel.cs" line="750" column="10" />
+      <Breakpoint file="/Users/aocsa/Documents/proyectos/MLearning/MLearning.Core/ViewModels/MainViewModel.cs" line="1207" column="11" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

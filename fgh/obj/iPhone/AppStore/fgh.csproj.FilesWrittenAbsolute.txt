@@ -1,0 +1,9 @@
+/Users/mac/Documents/git projects/MLearning.FirstVersion/fgh/obj/iPhone/AppStore/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/mac/Documents/git projects/MLearning.FirstVersion/fgh/obj/iPhone/AppStore/ibtool/LaunchScreen.nib
+/Users/mac/Documents/git projects/MLearning.FirstVersion/fgh/obj/iPhone/AppStore/actool/partial-info.plist
+/Users/mac/Documents/git projects/MLearning.FirstVersion/fgh/obj/iPhone/AppStore/actool/asset-manifest.plist
+/Users/mac/Documents/git projects/MLearning.FirstVersion/fgh/obj/iPhone/AppStore/optimized/
+/Users/mac/Documents/git projects/MLearning.FirstVersion/fgh/bin/iPhone/AppStore/fgh.exe.mdb
+/Users/mac/Documents/git projects/MLearning.FirstVersion/fgh/bin/iPhone/AppStore/fgh.exe
+/Users/mac/Documents/git projects/MLearning.FirstVersion/fgh/obj/iPhone/AppStore/fgh.exe
+/Users/mac/Documents/git projects/MLearning.FirstVersion/fgh/obj/iPhone/AppStore/fgh.exe.mdb
