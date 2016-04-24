@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="MLearning.UnifiedTouch/MLearning.UnifiedTouch.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.iPad" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MLearning.UnifiedTouch/Main.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MLearning.Core/Services/MLearningAzureService.cs">
     <Files>
-      <File FileName="MLearning.UnifiedTouch/Views/LOView.cs" Line="26" Column="22" />
-      <File FileName="MLearning.UnifiedTouch/Main.cs" Line="5" Column="16" />
+      <File FileName="MLearning.UnifiedTouch/Views/LOView.cs" Line="1" Column="1" />
+      <File FileName="MLearning.UnifiedTouch/Main.cs" Line="1" Column="1" />
+      <File FileName="MLearning.Core/Services/MLearningAzureService.cs" Line="16" Column="36" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
